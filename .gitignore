@@ -1,0 +1,10 @@
+# Dependências e build
+node_modules/
+dist/
+
+# Instruções locais do Claude Code — nunca enviar ao GitHub
+CLAUDE.md
+.claude/
+
+# Backup do .git antigo (herdado do repo do portfólio)
+.git-backup-portfolio/
