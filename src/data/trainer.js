@@ -41,6 +41,14 @@ export const projetos = [
     img: "./projetos/lumen.webp",
   },
   {
+    nome: "Localizador de Baú",
+    desc: "Cronômetro de drop de baús do TBH: planejador de rota, guia das 120 fases, média real entre drops e dois temas. React puro, estado derivado e persistência local.",
+    techs: ["React", "Vite", "JavaScript", "localStorage"],
+    link: "https://rodrigoruan2.github.io/localizador-de-bau/",
+    github: "https://github.com/RodrigoRuan2/localizador-de-bau",
+    img: "./projetos/localizador-bau.jpg",
+  },
+  {
     nome: "Anime Calendar V3",
     desc: "Tracker de animes com múltiplos status, grade semanal, filtros por temporada e persistência local via APIs públicas.",
     techs: ["React", "Axios", "APIs"],
