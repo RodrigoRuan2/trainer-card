@@ -41,11 +41,11 @@ export const projetos = [
     img: "./projetos/lumen.webp",
   },
   {
-    nome: "Localizador de Baú",
-    desc: "Cronômetro de drop de baús do TBH: planejador de rota, guia das 120 fases, média real entre drops e dois temas. React puro, estado derivado e persistência local.",
+    nome: "Radar TBH",
+    desc: "Acompanha os itens mais vendidos do Mercado Steam (atualização automática via GitHub Actions) + cronômetro de drop de baús, guia das 120 fases e meta do TBH. React puro, estado derivado e persistência local.",
     techs: ["React", "Vite", "JavaScript", "localStorage"],
-    link: "https://rodrigoruan2.github.io/localizador-de-bau/",
-    github: "https://github.com/RodrigoRuan2/localizador-de-bau",
+    link: "https://rodrigoruan2.github.io/radar-tbh/",
+    github: "https://github.com/RodrigoRuan2/radar-tbh",
     img: "./projetos/localizador-bau.jpg",
   },
   {
