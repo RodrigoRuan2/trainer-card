@@ -157,7 +157,7 @@ export const tecnologias = [
 // SAVE -> Contato / redes
 export const contatos = [
   { rede: "GitHub", user: "RodrigoRuan2", icone: "🐙", link: "https://github.com/RodrigoRuan2" },
-  { rede: "LinkedIn", user: "rodrigo-oliveira-141499258", icone: "💼", link: "https://www.linkedin.com/in/rodrigo-oliveira-141499258" },
+  { rede: "LinkedIn", user: "rodrigo-ruan-141499258", icone: "💼", link: "https://www.linkedin.com/in/rodrigo-ruan-141499258" },
   { rede: "WhatsApp", user: "+55 (61) 99215-3423", icone: "💬", link: "https://wa.me/5561992153423" },
   { rede: "Email", user: "ruancamisaazul@gmail.com", icone: "✉️", link: "mailto:ruancamisaazul@gmail.com" },
   { rede: "Portfólio", user: "rodrigoruan2.github.io", icone: "🌐", link: "https://rodrigoruan2.github.io/Portifolio" },
