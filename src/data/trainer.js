@@ -33,6 +33,14 @@ export const skills = [
 // MAP -> Projetos (cada projeto é uma "localização" no mapa)
 export const projetos = [
   {
+    nome: "Yato — IA 100% local",
+    desc: "Assistente de desktop com chat agente (LLM local), voz e ouvido offline, avatar Live2D com lip-sync e geração de imagem — 3 modelos de IA se revezando numa GPU de 8 GB, sem API paga.",
+    techs: ["Python", "Ollama", "Stable Diffusion", "Electron", "Live2D"],
+    link: "https://github.com/RodrigoRuan2/yato-assistente-ia-local",
+    github: "https://github.com/RodrigoRuan2/yato-assistente-ia-local",
+    img: "./projetos/yato.webp",
+  },
+  {
     nome: "Lumen E-commerce",
     desc: "E-commerce full-stack com auth JWT, aprovação de vendedores, rate-limiting e design system completo com dark mode.",
     techs: ["React", "Node.js", "Express", "Supabase", "PostgreSQL"],
